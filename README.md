@@ -14,6 +14,24 @@ Key topics include:
 
 The workshop aims to equip BUT students with foundational skills in Blender, Unity3D, and robotics simulation, and is designed for beginners with no prior or basic experience in these areas.
 
+# Workshop Content Overview
+
+**Part 1: Blender for Robotics Simulation**
+
+The first part of the workshop focuses on using Blender for robotics simulation. Students will begin by familiarizing themselves with the Blender interface and its functionalities, followed by the development of inverse and forward kinematics models for the EPSON SCARA robot in a 2D plane (X, Y). The kinematics will be implemented using Python scripting, allowing for the calculation of joint angles based on input or target positions. Students will also work on modeling and rigging the EPSON SCARA robot, including the creation of constraints and relationships between robot joints. Finally, the models and kinematic data will be exported in FBX format for use in Unity3D.
+
+<p align="center">
+  <img src="https://github.com/rparak/INTEMAC_Robotics_Sim_Workshop//blob/main/images/Blender.png?raw=true" width="600" height="480">
+</p>
+
+**Part 2: Unity3D for Robotics Simulation**
+
+The second part of the workshop shifts to Unity3D, where the imported FBX files from Blender will be used to set up a new project and configure the scene for robotics simulation. The physics engine in Unity3D will be applied to simulate realistic movements of the robotic arm. The Transform system in Unity3D will be used to manipulate and control the robot’s joint positions, along with the Unity Inspector and public variables for dynamic adjustments. Students will implement C# scripts for robot control, utilizing inverse kinematics to drive joint movements. Additionally, the **SmoothDampAngle** function will be used to ensure smooth and fluid rotation of the robot joints, creating realistic motion.
+
+<p align="center">
+  <img src="https://github.com/rparak/INTEMAC_Robotics_Sim_Workshop//blob/main/images/Unity3D.png?raw=true" width="600" height="480">
+</p>
+
 ## Contact Info
 parak@intemac.cz 
 
