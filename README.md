@@ -15,7 +15,9 @@ Key topics include:
 The workshop aims to equip BUT students with foundational skills in Blender, Unity3D, and robotics simulation, and is designed for beginners with no prior or basic experience in these areas.
 
 ## Contact Info
-Roman.Parak@outlook.com
+parak@intemac.cz 
+
+moravansky@intemac.cz
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
