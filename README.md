@@ -33,9 +33,9 @@ The second part of the workshop shifts to Unity3D, where the imported FBX files 
 </p>
 
 ## Contact Info
-Roman Parak: [parak@intemac.cz](mailto:parak@jic.cz)
+Roman Parak: [parak@jic.cz](mailto:parak@jic.cz)
 
-Lukas Moravansky: [moravansky@intemac.cz](mailto:moravansky@jic.cz)
+Lukas Moravansky: [moravansky@jic.cz](mailto:moravansky@jic.cz)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
